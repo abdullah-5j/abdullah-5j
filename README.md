@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdullah-5j&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
+---
 <p>
 💬 I’m a cybersecurity learner with a strong interest in Linux systems, automation, and security fundamentals. I enjoy analyzing how things work under the hood and building practical skills through consistent hands-on practice.
 </p>

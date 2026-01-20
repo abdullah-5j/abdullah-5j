@@ -15,6 +15,7 @@
 <p>
 💬 I’m a cybersecurity learner with a strong interest in Linux systems, automation, and security fundamentals. I enjoy analyzing how things work under the hood and building practical skills through consistent hands-on practice 🔒⚔️.
 </p>
+<br>
 
 <hr style="height:2px;border:none;background-color:#00f7ff;">
 
@@ -23,7 +24,7 @@
 - 🐧 Also Exploring **Linux Internals**
 - 📫 Reach me at abdullah5j009@gmail.com
 - ⚡ Fun fact: Every restriction makes me more curious.
-<br><br>
+<br>
 
 ## 🎯 TryHackMe Badge
 
@@ -32,7 +33,7 @@
        alt="TryHackMe Badge" 
        width="250"/>
 </p>
-<br><br>
+<br>
 
 ## 🌐 Connect with Me
 
@@ -44,7 +45,7 @@
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
-<br><br>
+<br>
 
 ## 🛠️ Languages & Tools
 
@@ -75,7 +76,7 @@
 </a>
 
 </p>
-<br><br>
+<br>
 
 ## 📊 GitHub Stats
 

@@ -1,4 +1,4 @@
-<h1 align="center">Heyaa 👋, I'm Abdullah</h1>
+<h1 align="center">Hey, I'm Abdullah</h1>
 <h3 align="center">A Cybersecurity & Linux Enthusiast</h3>
 
 <p align="center">
@@ -7,7 +7,6 @@
 
 ---
 
-## 👨‍💻 About Me
 
 - 🔐 Passionate about **Cybersecurity & Ethical Hacking**
 - 🐧 Exploring **Linux Internals**
@@ -16,6 +15,17 @@
 - ⚡ Fun fact: I break stuff to learn how to fix it 😄
 
 ---
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
+
 
 ## 🛠️ Languages & Tools
 
@@ -49,20 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-5j&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdullah-5j&label=Profile%20Views&color=0e75b6&style=flat" />

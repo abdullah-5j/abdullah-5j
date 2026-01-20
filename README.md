@@ -32,8 +32,6 @@
        width="250"/>
 </p>
 
-<hr style="height:2px;border:none;background-color:#00f7ff;">
-
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -45,7 +43,6 @@
 </a>
 </p>
 
-<hr style="height:2px;border:none;background-color:#00f7ff;">
 
 ## 🛠️ Languages & Tools
 

@@ -1,13 +1,13 @@
 <h1 align="center">
-  🔐 Hi, I'm Sharjeel Khan
+  🔐 Hi, I'm Abdullah
 </h1>
 
 <h3 align="center">
-  Cybersecurity Learner | Linux Enthusiast | Scripting Aspirant
+  Cybersecurity Learner | Linux Enthusiast 
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharjeelkh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abdullah-5j&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe" />

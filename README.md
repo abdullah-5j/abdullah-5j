@@ -1,41 +1,51 @@
 <h1 align="center">
-  👾 Heyaa, I'm Abdullah
+  🔐 Hi, I'm Sharjeel Khan
 </h1>
 
 <h3 align="center">
-  🛡️ Cybersecurity Aspirant | Linux Enthusiast | Bash Scripting Learner
+  Cybersecurity Learner | Linux Enthusiast | Scripting Aspirant
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharjeelkh&label=Profile%20Views&color=green&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=sharjeelkh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 📌 About Me
 
-💭 I’m a **passionate cybersecurity enthusiast** with a strong interest in offensive security, Linux internals, and automation.  
-I enjoy **breaking systems to understand how they work**, scripting solutions, and continuously sharpening my skills through hands-on practice.
+> **"The quieter you become, the more you are able to hear."** — _Unknown_
 
-🔐 I believe cybersecurity isn’t just about tools — it’s about **mindset, persistence, and curiosity**.
+I'm a passionate **cybersecurity beginner** with a deep interest in Linux systems, automation, and offensive security.  
+I believe in **learning by doing** — breaking things, fixing them, understanding the *why* behind every vulnerability.
 
----
-
-## 🎯 Current Focus
-
-- 🌱 Learning **Bash Scripting & Linux Internals**
-- 🐧 Exploring **Linux privilege escalation & system hardening**
-- 🧪 Practicing labs on **TryHackMe**
-- 🤝 Open to **collaboration, mentorship, and guidance**
+- 🧠 **Mindset:** Think like an attacker, defend like an architect.
+- 🛠️ **Approach:** Hands-on labs, documentation, and repetition.
+- 🎯 **Goal:** Build a strong foundation in Linux, scripting, and security fundamentals.
 
 ---
 
-## 🧰 Technical Skills
+## 🚀 Current Focus
 
+| Area | Activity |
+|------|----------|
+| **Bash Scripting** | Writing automation scripts for system tasks & CTF challenges |
+| **Linux Internals** | Understanding processes, permissions, file systems, and services |
+| **Privilege Escalation** | Practicing on THM, HTB machines, and VulnHub |
+| **Networking** | Learning TCP/IP, services, ports, and basic traffic analysis |
+| **Tool Familiarity** | Getting comfortable with `nmap`, `grep`, `find`, `curl`, etc. |
+
+---
+
+## 🛠️ Tech Stack
+
+### 📦 **Core Skills**
 ```text
-💻 Operating Systems : Linux (Ubuntu, Kali)
-⚙️ Scripting          : Bash (Beginner)
-🛡️ Security Basics    : Networking
-🧪 Platforms          : TryHackMe, GitHub
-🧠 Soft Skills        : Problem-solving, consistency, curiosity
-
+Operating Systems  : Linux (Kali, Ubuntu, Parrot)
+Scripting          : Bash | Python (Basic)
+Security Tools     : nmap, gobuster, netcat, hydra, John, hashcat
+Platforms          : TryHackMe, OverTheWire, GitHub, VulnHub
+Version Control    : Git & GitHub

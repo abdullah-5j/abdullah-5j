@@ -24,8 +24,6 @@
 - 📫 Reach me at abdullah5j009@gmail.com
 - ⚡ Fun fact: Every restriction makes me more curious.
 
-<hr style="height:2px;border:none;background-color:#00f7ff;">
-
 ## 🎯 TryHackMe Badge
 
 <p align="left">

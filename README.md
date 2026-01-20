@@ -9,18 +9,21 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdullah-5j&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
----
+
+<hr style="height:2px;border:none;background-color:#00f7ff;">
+
 <p>
 💬 I’m a cybersecurity learner with a strong interest in Linux systems, automation, and security fundamentals. I enjoy analyzing how things work under the hood and building practical skills through consistent hands-on practice.
 </p>
----
+
+<hr style="height:2px;border:none;background-color:#00f7ff;">
 
 - 🔐 I'm Passionate about **Cybersecurity & Ethical Hacking**
 - 📜 I'm Currently learning **Bash Scripting**
 - 🐧 Also Exploring **Linux Internals**
 - ⚡ Fun fact: Every restriction makes me more curious.
 
----
+<hr style="height:2px;border:none;background-color:#00f7ff;">
 
 ## 🎯 TryHackMe Badge
 
@@ -28,7 +31,8 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/abdullah-5j.png" alt="TryHackMe Badge" />
 </p>
 
----
+<hr style="height:2px;border:none;background-color:#00f7ff;">
+
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -40,6 +44,7 @@
 </a>
 </p>
 
+<hr style="height:2px;border:none;background-color:#00f7ff;">
 
 ## 🛠️ Languages & Tools
 
@@ -47,7 +52,7 @@
 <img src="https://skillicons.dev/icons?i=linux,bash, cpp, html, css, github " />
 </p>
 
-
+<hr style="height:2px;border:none;background-color:#00f7ff;">
 
 ## 📊 GitHub Stats
 

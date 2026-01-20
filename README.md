@@ -50,8 +50,33 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash,cpp,html,css,github" />
+
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" />
+</a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bash" />
+</a>
+
+<a href="https://www.learncpp.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</a>
+
+<a href="https://www.w3schools.com/html/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 </p>
+
 
 <hr style="height:2px;border:none;background-color:#00f7ff;">
 

@@ -23,6 +23,7 @@
 - 🐧 Also Exploring **Linux Internals**
 - 📫 Reach me at abdullah5j009@gmail.com
 - ⚡ Fun fact: Every restriction makes me more curious.
+<br><br>
 
 ## 🎯 TryHackMe Badge
 
@@ -31,6 +32,7 @@
        alt="TryHackMe Badge" 
        width="250"/>
 </p>
+<br><br>
 
 ## 🌐 Connect with Me
 
@@ -42,7 +44,7 @@
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
-
+<br><br>
 
 ## 🛠️ Languages & Tools
 
@@ -73,9 +75,7 @@
 </a>
 
 </p>
-
-
-<hr style="height:2px;border:none;background-color:#00f7ff;">
+<br><br>
 
 ## 📊 GitHub Stats
 

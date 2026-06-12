@@ -29,9 +29,7 @@
 ## 🎯 TryHackMe Badge
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/Badge1.png" 
-       alt="TryHackMe Badge" 
-       width="250"/>
+  <img src="badge.png" alt="TryHackMe Badge" />
 </p>
 <br>
 

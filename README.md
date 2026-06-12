@@ -29,7 +29,7 @@
 ## 🎯 TryHackMe Badge
 
 <p align="left">
-  <img src="badge.png" alt="TryHackMe Badge" />
+  <img src="Badge1.png" alt="TryHackMe Badge" />
 </p>
 <br>
 

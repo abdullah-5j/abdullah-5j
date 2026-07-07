@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0e75b6&height=200&section=header&text=Hey,%20I'm%20Abdullah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:ff0000,100:000000&height=200&section=header&text=Hey,%20I'm%20Abdullah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Learner;Linux+Explorer;CTF+Player;Bash+Scripting" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=Cybersecurity+Learner;Linux+Explorer;CTF+Player;Bash+Scripting" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=abdullah-5j&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=abdullah-5j&label=Profile%20Views&color=8b0000&style=for-the-badge" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
 
 ## 👋 About Me
 
@@ -24,15 +24,15 @@ I'm a cybersecurity learner with a strong interest in Linux systems, automation,
 ⚡ Fun fact           → Every restriction makes me more curious.
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
 
 ## 🎯 TryHackMe Badge
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/badge.png" width="500" alt="TryHackMe Badge"/>
+  <img src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/badge.png" width="80%" alt="TryHackMe Badge"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
 
 ## 🌐 Connect with Me
 
@@ -45,7 +45,7 @@ I'm a cybersecurity learner with a strong interest in Linux systems, automation,
 </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
 
 ## 🛠️ Languages & Tools
 
@@ -53,22 +53,30 @@ I'm a cybersecurity learner with a strong interest in Linux systems, automation,
   <img src="https://skillicons.dev/icons?i=linux,bash,cpp,html,css,github,vim,git&perline=8" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah-5j&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-5j&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah-5j&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=abdullah-5j&theme=dark&hide_border=true&fire=FF0000&ring=FF0000&currStreakLabel=FF0000" />
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-5j&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-5j&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=ff0000" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullah-5j&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -76,10 +84,8 @@ I'm a cybersecurity learner with a strong interest in Linux systems, automation,
   <img src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/misc/waves.gif" width="100%" />
-  <br/>
-  <i>⭐ Every restriction makes me more curious ⭐</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:8b0000&height=120&section=footer&text=Every%20restriction%20makes%20me%20more%20curious&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
 </div>

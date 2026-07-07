@@ -1,91 +1,70 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/banner.png" width="100%" alt="Abdullah - Cybersecurity Enthusiast" />
+# Muhammad Abdullah
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF1A1A&center=true&vCenter=true&width=435&lines=Cybersecurity+Learner;Linux+Explorer;CTF+Player;Bash+Scripting" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=abdullah-5j&label=Profile%20Views&color=8b0000&style=for-the-badge" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
-
-## 👋 About Me
-
-I'm a cybersecurity learner with a strong interest in Linux systems, automation, and security fundamentals. I enjoy analyzing how things work under the hood and building practical skills through consistent hands-on practice 🔒⚔️.
-
-```ansi
-🔐 Passionate about   → Cybersecurity & Ethical Hacking
-📜 Currently learning → Bash Scripting
-🐧 Also exploring     → Linux Internals
-📫 Reach me at        → abdullah5j009@gmail.com
-⚡ Fun fact           → Every restriction makes me more curious.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
-
-## 🎯 TryHackMe Badge
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/badge.png" width="80%" alt="TryHackMe Badge"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
-
-## 🌐 Connect with Me
-
-<p align="center">
-<a href="https://linkedin.com/in/muhammadabdullah-5j" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://instagram.com/abdullah.5j" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,cpp,html,css,github,vim,git&perline=8" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah-5j&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000" />
-<img height="180em" src="https://streak-stats.demolab.com/?user=abdullah-5j&theme=dark&hide_border=true&fire=FF0000&ring=FF0000&currStreakLabel=FF0000" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A9B1BA&center=true&vCenter=true&width=440&lines=Cybersecurity+Enthusiast;Linux+%26+Automation;Bash+Scripting;CTF+Player" />
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-5j&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=ff0000" />
+<a href="https://linkedin.com/in/muhammadabdullah-5j"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abdullah5j009@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/abdullah.5j"><img src="https://img.shields.io/badge/Instagram-24292F?style=flat&logo=instagram&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=abdullah-5j&label=Views&color=555555&style=flat" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
+---
 
-## 🏆 GitHub Trophies
+### About Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullah-5j&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+I'm a cybersecurity learner focused on Linux systems, automation, and security fundamentals. I enjoy understanding how things work under the hood and building practical skills through consistent hands-on practice.
+
+- Focused on **Cybersecurity & Ethical Hacking**
+- Currently learning **Bash Scripting**
+- Exploring **Linux Internals**
+- Reach me at **abdullah5j009@gmail.com**
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,cpp,html,css,git,github,vim&perline=8" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
+---
 
-## 🐍 Contribution Snake
+### TryHackMe
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<p>
+  <img src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/badge.png" width="60%" alt="TryHackMe Badge"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
+---
+
+### GitHub Stats
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8b0000,100:000000&height=120&section=footer&text=Every%20restriction%20makes%20me%20more%20curious&fontSize=16&fontColor=ff1a1a&animation=twinkling&fontAlignY=70" width="100%" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=abdullah-5j&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=9f9f9f&text_color=c9c9c9&bg_color=0d1117" />
+<img height="165em" src="https://streak-stats.demolab.com/?user=abdullah-5j&theme=dark&hide_border=true&background=0d1117&ring=9f9f9f&fire=ffffff&currStreakLabel=ffffff" />
+
+<br/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-5j&layout=compact&theme=dark&hide_border=true&langs_count=8&title_color=ffffff&text_color=c9c9c9&bg_color=0d1117" />
+
+</div>
+
+---
+
+### Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+</p>
+
+---
+
+<div align="center">
+<sub>Every restriction makes me more curious.</sub>
 </div>

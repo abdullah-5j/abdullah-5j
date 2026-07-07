@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:ff0000,100:000000&height=200&section=header&text=Hey,%20I'm%20Abdullah&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,55:1a0505,100:8b0000&height=220&section=header&text=Hey,%20I'm%20Abdullah&fontSize=48&fontColor=ff1a1a&font=Fira+Code&animation=fadeIn&fontAlignY=38&desc=A%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=20&descColor=ffffff" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=435&lines=Cybersecurity+Learner;Linux+Explorer;CTF+Player;Bash+Scripting" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF1A1A&center=true&vCenter=true&width=435&lines=Cybersecurity+Learner;Linux+Explorer;CTF+Player;Bash+Scripting" />
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=abdullah-5j&label=Profile%20Views&color=8b0000&style=for-the-badge" />
+
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=abdullah-5j&label=Profile%20Views&color=8b0000&style=for-the-badge" />
 

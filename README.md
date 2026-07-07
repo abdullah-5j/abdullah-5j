@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,55:1a0505,100:8b0000&height=220&section=header&text=Hey,%20I'm%20Abdullah&fontSize=48&fontColor=ff1a1a&font=Fira+Code&animation=fadeIn&fontAlignY=38&desc=A%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=20&descColor=ffffff" width="100%" />
+<img src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/banner.png" width="100%" alt="Abdullah - Cybersecurity Enthusiast" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF1A1A&center=true&vCenter=true&width=435&lines=Cybersecurity+Learner;Linux+Explorer;CTF+Player;Bash+Scripting" />
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=abdullah-5j&label=Profile%20Views&color=8b0000&style=for-the-badge" />
-
-</div>
 
 <img src="https://komarev.com/ghpvc/?username=abdullah-5j&label=Profile%20Views&color=8b0000&style=for-the-badge" />
 
@@ -91,5 +87,5 @@ I'm a cybersecurity learner with a strong interest in Linux systems, automation,
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,50:ff0000,100:000000&height=3&section=header" width="100%"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:8b0000&height=120&section=footer&text=Every%20restriction%20makes%20me%20more%20curious&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8b0000,100:000000&height=120&section=footer&text=Every%20restriction%20makes%20me%20more%20curious&fontSize=16&fontColor=ff1a1a&animation=twinkling&fontAlignY=70" width="100%" />
 </div>

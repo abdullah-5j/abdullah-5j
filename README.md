@@ -36,9 +36,9 @@ I'm a cybersecurity learner focused on Linux systems, automation, and security f
 
 ### TryHackMe
 
-<p>
-  <img src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/badge.png" width="60%" alt="TryHackMe Badge"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/badge.png" width="90%" alt="TryHackMe Badge"/>
+</div>
 
 ---
 
@@ -47,7 +47,7 @@ I'm a cybersecurity learner focused on Linux systems, automation, and security f
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=abdullah-5j&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=9f9f9f&text_color=c9c9c9&bg_color=0d1117" />
-<img height="165em" src="https://streak-stats.demolab.com/?user=abdullah-5j&theme=dark&hide_border=true&background=0d1117&ring=9f9f9f&fire=ffffff&currStreakLabel=ffffff" />
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-5j&theme=dark&hide_border=true&background=0d1117&ring=9f9f9f&fire=ffffff&currStreakLabel=ffffff" />
 
 <br/>
 

@@ -20,7 +20,7 @@
 I'm a cybersecurity learner focused on Linux systems, automation, and security fundamentals. I enjoy understanding how things work under the hood and building practical skills through consistent hands-on practice.
 
 - Focused on **Cybersecurity & Ethical Hacking**
-- Currently learning **Bash Scripting**
+- Currently learning **Binary Exploitation**
 - Exploring **Linux Internals**
 - Reach me at **abdullah5j009@gmail.com**
 

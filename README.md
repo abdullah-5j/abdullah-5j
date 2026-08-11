@@ -77,7 +77,7 @@ I'm a cybersecurity student focused on building practical offensive security ski
 <br/><br/>
 
 <a href="https://tryhackme.com/p/Verox">
-  <img src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/badge.png" width="85%" alt="TryHackMe Profile"/>
+  <img src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/THM.png" width="85%" alt="TryHackMe Profile"/>
 </a>
 
 <br/>

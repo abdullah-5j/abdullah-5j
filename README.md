@@ -14,7 +14,6 @@
 ## About Me
 
 I'm a **Cybersecurity student** focused on offensive security and developing practical skills through hands-on labs, CTFs, and security research.
-
 My current interests include **Web Application Security, Binary Exploitation, Reverse Engineering, and Linux Systems**. I enjoy understanding vulnerabilities at both the application and low-level system layers rather than relying only on automated tools.
 
 ---

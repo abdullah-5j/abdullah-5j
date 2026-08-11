@@ -17,8 +17,6 @@ I'm a **Cybersecurity student** focused on offensive security and developing pra
 
 My current interests include **Web Application Security, Binary Exploitation, Reverse Engineering, and Linux Systems**. I enjoy understanding vulnerabilities at both the application and low-level system layers rather than relying only on automated tools.
 
-I actively practice on **TryHackMe** and **Hack The Box**, continuously improving my methodology, problem-solving, and technical depth.
-
 ---
 
 ## Connect With Me
@@ -71,7 +69,7 @@ I actively practice on **TryHackMe** and **Hack The Box**, continuously improvin
 <p align="left">
 
 <img
-  src="https://go-skill-icons.vercel.app/api/icons?i=linux,git,github,gdb,vscode,burpsuite,wireshark&theme=dark&perline=7"
+  src="https://go-skill-icons.vercel.app/api/icons?i=linux,git,github,vscode,burpsuite,wireshark&theme=dark&perline=7"
   alt="Tools and Technologies"
 />
 
@@ -96,7 +94,7 @@ I actively practice on **TryHackMe** and **Hack The Box**, continuously improvin
 
 <a href="https://tryhackme.com/p/Verox">
   <img
-    src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/badge.png"
+    src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/THM.png"
     width="85%"
     alt="TryHackMe Profile"
   />
@@ -127,7 +125,7 @@ I actively practice on **TryHackMe** and **Hack The Box**, continuously improvin
 
 <a href="https://app.hackthebox.com/users/2654143">
   <img
-    src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/htb-profile.png"
+    src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/HTB.png"
     width="85%"
     alt="Hack The Box Profile"
   />
@@ -143,47 +141,6 @@ I actively practice on **TryHackMe** and **Hack The Box**, continuously improvin
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah-5j&theme=github_dark"
-  width="95%"
-  alt="GitHub Profile Details"
-/>
-
-<br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullah-5j&theme=github_dark"
-  width="46%"
-  alt="Repositories Per Language"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullah-5j&theme=github_dark"
-  width="46%"
-  alt="Most Commit Language"
-/>
-
-<br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullah-5j&theme=github_dark"
-  width="46%"
-  alt="GitHub Statistics"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullah-5j&theme=github_dark&utcOffset=5"
-  width="46%"
-  alt="Productive Time"
-/>
-
-</div>
-
----
 
 ## Contribution Graph
 
@@ -216,6 +173,5 @@ I actively practice on **TryHackMe** and **Hack The Box**, continuously improvin
 
 ### Learn • Break • Understand • Repeat
 
-<sub>Building cybersecurity skills one challenge at a time.</sub>
 
 </div>

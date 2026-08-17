@@ -79,27 +79,7 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 # Cybersecurity Platforms
 
 ## TryHackMe
-
 <div align="center">
-
-<a href="https://tryhackme.com/p/Verox">
-  <img
-    src="https://img.shields.io/badge/TryHackMe-Verox-C11111?style=for-the-badge&logo=tryhackme&logoColor=white"
-    alt="TryHackMe"
-  />
-</a>
-
-<br/><br/>
-
-<a href="https://tryhackme.com/p/Verox">
-  <img
-    src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/THM.png"
-    width="85%"
-    alt="TryHackMe Profile"
-  />
-</a>
-
-<br/><br/>
 
 <a href="https://tryhackme.com/p/Verox">
   <strong>View TryHackMe Profile →</strong>
@@ -108,29 +88,8 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 </div>
 
 ---
-
 ## Hack The Box
-
 <div align="center">
-
-<a href="https://app.hackthebox.com/users/2654143">
-  <img
-    src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"
-    alt="Hack The Box"
-  />
-</a>
-
-<br/><br/>
-
-<a href="https://app.hackthebox.com/users/2654143">
-  <img
-    src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/main/HTB.png"
-    width="85%"
-    alt="Hack The Box Profile"
-  />
-</a>
-
-<br/><br/>
 
 <a href="https://app.hackthebox.com/users/2654143">
   <strong>View Hack The Box Profile →</strong>

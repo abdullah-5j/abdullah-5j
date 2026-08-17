@@ -154,23 +154,3 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 </div>
 
 ---
-
-## Contribution Activity
-
-<p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/abdullah-5j/abdullah-5j/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-/>
-
-</p>
-
----
-
-<div align="center">
-
-### Learn • Break • Understand • Repeat
-
-
-</div>

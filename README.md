@@ -29,38 +29,10 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 ## Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/muhammadabdullah5j">
-  <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark"
-    height="48"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="https://x.com/abdullah5j009">
-  <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=x&theme=dark"
-    height="48"
-    alt="X"
-  />
-</a>
-
-<a href="mailto:abdullah5j009@gmail.com">
-  <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark"
-    height="48"
-    alt="Email"
-  />
-</a>
-
-<img
-  src="https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark"
-  height="48"
-  alt="Discord"
-/>
-<strong>notabdu11ah</strong>
-
+<a href="https://www.linkedin.com/in/muhammadabdullah5j"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" /></a>&nbsp;
+<a href="https://x.com/abdullah5j009"><img src="https://go-skill-icons.vercel.app/api/icons?i=x&theme=dark" height="48" alt="X" /></a>&nbsp;
+<a href="mailto:abdullah5j009@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" height="48" alt="Email" /></a>&nbsp;
+<img src="https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark" height="48" alt="Discord" align="middle" />&nbsp;<strong>notabdu11ah</strong>
 </p>
 
 ---
@@ -122,7 +94,11 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 <div align="center">
 
 <a href="https://github.com/abdullah-5j">
-  <strong>View my GitHub profile and contribution graph →</strong>
+  <img
+    src="https://ghchart.xqsit94.in/dark:default/abdullah-5j"
+    alt="GitHub contribution graph for abdullah-5j"
+    width="95%"
+  />
 </a>
 
 </div>

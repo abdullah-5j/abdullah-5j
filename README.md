@@ -14,7 +14,15 @@
 ## About Me
 
 I'm a **Cybersecurity student** focused on offensive security and developing practical skills through hands-on labs, CTFs, and security research.
+
 My current interests include **Web Application Security, Binary Exploitation, Reverse Engineering, and Linux Systems**. I enjoy understanding vulnerabilities at both the application and low-level system layers rather than relying only on automated tools.
+
+---
+
+## My Websites
+
+- **Portfolio:** [abdullah5j.me](https://abdullah5j.me) — coming soon
+- **Writeups & Research:** [writeups.abdullah5j.me](https://writeups.abdullah5j.me)
 
 ---
 
@@ -45,6 +53,13 @@ My current interests include **Web Application Security, Binary Exploitation, Re
     alt="Email"
   />
 </a>
+
+<img
+  src="https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark"
+  height="48"
+  alt="Discord"
+/>
+<strong>notabdu11ah</strong>
 
 </p>
 
@@ -79,6 +94,7 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 # Cybersecurity Platforms
 
 ## TryHackMe
+
 <div align="center">
 
 <a href="https://tryhackme.com/p/Verox.">
@@ -88,7 +104,9 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 </div>
 
 ---
+
 ## Hack The Box
+
 <div align="center">
 
 <a href="https://app.hackthebox.com/users/2654143">
@@ -99,16 +117,13 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 
 ---
 
-
 ## Contribution Graph
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-5j&theme=github-compact&hide_border=true&area=true"
-  width="95%"
-  alt="GitHub Contribution Graph"
-/>
+<a href="https://github.com/abdullah-5j">
+  <strong>View my GitHub profile and contribution graph →</strong>
+</a>
 
 </div>
 

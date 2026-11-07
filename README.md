@@ -21,10 +21,8 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 
 ## My Websites
 
-| | |
-|---|---|
-| **Portfolio** | [abdullah5j.me](https://abdullah5j.me) — coming soon |
-| **Writeups & Research** | [writeups.abdullah5j.me](https://writeups.abdullah5j.me) |
+- **Portfolio:** [abdullah5j.me](https://abdullah5j.me) — coming soon
+- **Writeups & Research:** [writeups.abdullah5j.me](https://writeups.abdullah5j.me)
 
 ---
 
@@ -34,12 +32,12 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 <a href="https://www.linkedin.com/in/muhammadabdullah5j"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" /></a>&nbsp;
 <a href="https://x.com/abdullah5j009"><img src="https://go-skill-icons.vercel.app/api/icons?i=x&theme=dark" height="48" alt="X" /></a>&nbsp;
 <a href="mailto:abdullah5j009@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" height="48" alt="Email" /></a>&nbsp;
-<img src="https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark" height="48" alt="Discord" align="middle" />&nbsp;<strong>notabdu11ah</strong>
+<a href="https://discordapp.com/users/notabdu11ah"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark" height="48" alt="Discord" /></a>&nbsp;<strong>notabdu11ah</strong>
 </p>
 
 ---
 
-## Languages & Security Domains
+## Languages
 
 <p align="left">
 
@@ -50,9 +48,16 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 
 </p>
 
-### AI Security Focus
+---
 
-`Prompt Injection` · `LLM Jailbreaking` · `AI Red Teaming` · `Adversarial ML`
+## AI Security Focus
+
+<p align="left">
+<img src="https://img.shields.io/badge/Prompt_Injection-dc3545?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Injection" />
+<img src="https://img.shields.io/badge/LLM_Jailbreaking-ff6f00?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Jailbreaking" />
+<img src="https://img.shields.io/badge/AI_Red_Teaming-7b2d8e?style=for-the-badge&logo=openai&logoColor=white" alt="AI Red Teaming" />
+<img src="https://img.shields.io/badge/Adversarial_ML-1a73e8?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Adversarial ML" />
+</p>
 
 ---
 
@@ -71,12 +76,25 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 
 ## Cybersecurity Platforms
 
+### TryHackMe
+
 <div align="center">
 
-| Platform | Profile |
-|:---:|:---:|
-| **TryHackMe** | [View Profile →](https://tryhackme.com/p/Verox.) |
-| **Hack The Box** | [View Profile →](https://app.hackthebox.com/users/2654143) |
+<a href="https://tryhackme.com/p/Verox.">
+  <strong>View TryHackMe Profile →</strong>
+</a>
+
+</div>
+
+---
+
+### Hack The Box
+
+<div align="center">
+
+<a href="https://app.hackthebox.com/users/2654143">
+  <strong>View Hack The Box Profile →</strong>
+</a>
 
 </div>
 
@@ -86,14 +104,7 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdullah-5j&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A9B1BA&icon_color=A9B1BA&text_color=8b949e" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abdullah-5j&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A9B1BA&fire=A9B1BA&currStreakLabel=A9B1BA&sideLabels=8b949e&dates=8b949e" width="49%" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-5j&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=A9B1BA&text_color=8b949e" width="40%" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abdullah-5j&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A9B1BA&fire=A9B1BA&currStreakLabel=A9B1BA&sideLabels=8b949e&dates=8b949e" width="60%" alt="GitHub Streak" />
 
 </div>
 
@@ -105,8 +116,8 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 
 <a href="https://github.com/abdullah-5j">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-5j&theme=github-compact&hide_border=true&bg_color=0d1117&color=A9B1BA&line=A9B1BA&point=ffffff&area=true&area_color=A9B1BA"
-    alt="GitHub Activity Graph"
+    src="https://ghchart.xqsit94.in/dark:default/abdullah-5j"
+    alt="GitHub contribution graph for abdullah-5j"
     width="95%"
   />
 </a>

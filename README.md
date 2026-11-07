@@ -14,14 +14,13 @@
 ## About Me
 
 I'm a **Cybersecurity student** focused on offensive security and developing practical skills through hands-on labs, CTFs, and security research.
-
 My current interests include **Web Application Security, Binary Exploitation, Reverse Engineering, AI Security (Prompt Injection & Jailbreaking), and Linux Systems**. I enjoy understanding vulnerabilities at both the application and low-level system layers rather than relying only on automated tools.
 
 ---
 
 ## My Websites
 
-- **Portfolio:** [abdullah5j.me](https://abdullah5j.me) — coming soon
+- **Portfolio:** [abdullah5j.me](https://abdullah5j.me) 
 - **Writeups & Research:** [writeups.abdullah5j.me](https://writeups.abdullah5j.me)
 
 ---
@@ -32,7 +31,7 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 <a href="https://www.linkedin.com/in/muhammadabdullah5j"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" /></a>&nbsp;
 <a href="https://x.com/abdullah5j009"><img src="https://go-skill-icons.vercel.app/api/icons?i=x&theme=dark" height="48" alt="X" /></a>&nbsp;
 <a href="mailto:abdullah5j009@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" height="48" alt="Email" /></a>&nbsp;
-<a href="https://discordapp.com/users/notabdu11ah"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark" height="48" alt="Discord" /></a>&nbsp;<strong>notabdu11ah</strong>
+<a href="https://discordapp.com/users/notabdu11ah"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord&theme=dark" height="48" alt="Discord" /></a>&nbsp;
 </p>
 
 ---
@@ -110,21 +109,6 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-
-<a href="https://github.com/abdullah-5j">
-  <img
-    src="https://ghchart.xqsit94.in/dark:default/abdullah-5j"
-    alt="GitHub contribution graph for abdullah-5j"
-    width="95%"
-  />
-</a>
-
-</div>
-
----
 
 <div align="center">
 

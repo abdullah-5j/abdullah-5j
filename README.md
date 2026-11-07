@@ -52,10 +52,11 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 ## AI Security Focus
 
 <p align="left">
-<img src="https://img.shields.io/badge/Prompt_Injection-dc3545?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Injection" />
-<img src="https://img.shields.io/badge/LLM_Jailbreaking-ff6f00?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Jailbreaking" />
-<img src="https://img.shields.io/badge/AI_Red_Teaming-7b2d8e?style=for-the-badge&logo=openai&logoColor=white" alt="AI Red Teaming" />
-<img src="https://img.shields.io/badge/Adversarial_ML-1a73e8?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Adversarial ML" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=openai,pytorch,tensorflow&theme=dark" height="48" alt="AI Security" />&nbsp;
+<img src="https://img.shields.io/badge/🔓_Jailbreaking-dc3545?style=for-the-badge" alt="Jailbreaking" />&nbsp;
+<img src="https://img.shields.io/badge/💉_Prompt_Injection-ff6f00?style=for-the-badge" alt="Prompt Injection" />&nbsp;
+<img src="https://img.shields.io/badge/🎯_Red_Teaming-7b2d8e?style=for-the-badge" alt="Red Teaming" />&nbsp;
+<img src="https://img.shields.io/badge/⚔️_Adversarial_ML-1a73e8?style=for-the-badge" alt="Adversarial ML" />
 </p>
 
 ---

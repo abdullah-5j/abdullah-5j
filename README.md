@@ -18,13 +18,6 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 
 ---
 
-## My Websites
-
-- **Portfolio:** [abdullah5j.me](https://abdullah5j.me) 
-- **Writeups & Research:** [writeups.abdullah5j.me](https://writeups.abdullah5j.me)
-
----
-
 ## Connect With Me
 
 <p align="left">

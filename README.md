@@ -62,7 +62,7 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 
 <div align="center">
 
-<a href="https://tryhackme.com/p/Verox.">
+<a href="https://tryhackme.com/p/verox.">
   <strong>View TryHackMe Profile →</strong>
 </a>
 

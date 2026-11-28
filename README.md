@@ -42,18 +42,6 @@ My current interests include **Web Application Security, Binary Exploitation, Re
 
 ---
 
-## AI Security Focus
-
-<p align="left">
-
-<a href="#" title="LLM Jailbreaking"><img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" height="48" alt="LLM Jailbreaking" /></a>&nbsp;
-<a href="#" title="AI Red Teaming"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark" height="48" alt="AI Red Teaming" /></a>&nbsp;
-<a href="#" title="AI Model Security"><img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda&theme=dark" height="48" alt="AI Model Security" /></a>&nbsp;
-<a href="#" title="AI Supply Chain Security"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark" height="48" alt="AI Supply Chain Security" /></a>
-
-</p>
-
----
 
 ## Tools & Technologies
 
